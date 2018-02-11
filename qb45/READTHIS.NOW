@@ -1,0 +1,23 @@
+		   Welcome to Microsoft QuickBASIC 4.50
+		   ------------------------------------
+
+To install Microsoft QuickBASIC onto your system, type "SETUP".
+You MUST run Setup to be able to use Microsoft QuickBASIC, because
+the files on the distribution disks are in compressed format (indicated
+by a "$" in the file extension).
+
+To get a quick hands-on lesson on how to use the new Microsoft QuickBASIC
+environment, type "LEARN" after installing.
+
+For a complete list of files shipped with Microsoft QuickBASIC and a short
+description of each file, look in PACKING.LST located on the "Setup" disk.
+
+For instructions on installing and running Microsoft QuickBASIC on a
+dual-floppy system, look in README.DOC located on the "Setup" disk.
+
+For additional technical information for advanced users, look in README.DOC
+located on the "Setup" disk.
+
+For more information about installing and beginning to use QuickBASIC,
+see the section "Setting Up Microsoft QuickBASIC" in "Learning to Use
+Microsoft QuickBASIC."

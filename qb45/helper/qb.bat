@@ -1,0 +1,1 @@
+C:\QB45\QB.EXE /AH /H /L C:\QB45\QB.QLB
